@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    padding: 2rem;
+    background-color: brown;
+}
+
+strong{
+    color: lawngreen;
+}
+
+.italics{
+    font-style: italic;
+}
+.me{
+    color: aqua;
+}
+
+p{
+    color: aquamarine;
+}
+
+li{
+    color: bisque;
+}
+
+h3{
+    font-size: 25px;
+    color: chartreuse;
+}
+
+span{
+    color: white;
+    font-size: 21px;
+    margin-right: 5px;
+}
+
+a{
+    color: blueviolet;
+}
